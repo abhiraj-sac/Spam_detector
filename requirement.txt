@@ -1,0 +1,11 @@
+streamlit
+nltk
+matplotlib
+scikit-image
+pandas
+seaborn
+Pillow
+sphinx-gallery
+scikit-learn
+stopwords
+punkt
